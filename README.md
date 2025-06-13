@@ -19,7 +19,7 @@ A fully responsive, modern calculator web application that supports mouse clicks
 - Deployed on [Netlify](https://netlify.com)
 
 ### 📱 Demo
-🌐 [Live Demo](https://claci-2025.netlify.app/)
+🌐 [Live Demo](https://zingy-calci.netlify.app/)
 
 ### 📦 Installation
 ```bash
